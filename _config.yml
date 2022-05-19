@@ -104,4 +104,8 @@ theme: next-linkcd
 deploy:
   type: ''
 
-
+feed:
+  type: atom
+  path: atom.xml
+  limit: 0
+plugins: hexo-generate-feed
