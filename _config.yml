@@ -109,3 +109,9 @@ feed:
   path: atom.xml
   limit: 0
 plugins: hexo-generate-feed
+
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
