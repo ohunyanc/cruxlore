@@ -107,7 +107,11 @@ theme: next-linkcd
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ''
+  type: 'git'
+  repo: https://github.com/ohunyanc/cruxlore.git
+  branch: master
+  message: commit
+
 
 feed:
   type: atom
