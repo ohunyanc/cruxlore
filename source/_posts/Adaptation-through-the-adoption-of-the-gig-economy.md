@@ -1,9 +1,10 @@
 ---
-title: Adaptation through the adoption of the gig economy
+title: Adaptation of the Gig Economy
 abbrlink: dbb013b2
 date: 2022-05-20 17:39:40
 tags:
 ---
+![This is alt](/images/gig.png "Gig Economy")
 
 With the information age comes a lot of possibilities for anyone who is willing to go the distance when it comes to choosing a career or carving out their own path. Access to so much information can be overwhelming but when channeled properly, one can build the kind of foundation a sound knowledge base can stand on.
 
