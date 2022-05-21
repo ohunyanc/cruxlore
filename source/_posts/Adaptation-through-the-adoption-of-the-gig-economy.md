@@ -6,7 +6,7 @@ tags:
 ---
 ![This is alt](/images/gig.png "Gig Economy")
 
-With the information age comes a lot of possibilities for anyone who is willing to go the distance when it comes to choosing a career or carving out their own path. Access to so much information can be overwhelming but when channeled properly, one can build the kind of foundation a sound knowledge base can stand on.
+With the information age comes a lot of possibilities for anyone who is willing to go the distance when it comes to choosing a career or carving out their own path. Access to so much information can be overwhelming <!--more--> but when channeled properly, one can build the kind of foundation a sound knowledge base can stand on.
 
   
 The gig economy has been around for a while and is still going strong now that jobs are becoming more interesting and flexible with the liberty of working remotely. The gig economy has grown to become a core component and integral part of the labor market making organizations review their definitions of what it means and takes to be an employee; taking into consideration hiring independent workers with the relevant skillset and enthusiasm to get the job done.
