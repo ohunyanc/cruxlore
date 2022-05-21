@@ -3,6 +3,7 @@ title: Adaptation of the Gig Economy
 abbrlink: dbb013b2
 date: 2022-05-20 17:39:40
 tags:
+sitemap: false
 ---
 ![This is alt](/images/gig.png "Gig Economy")
 

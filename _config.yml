@@ -17,6 +17,17 @@ favicon:
   apple_touch_icon: /images/apple-touch-icon-next.png
   safari_pinned_tab: /images/logo.svg
   android_manifest: /images/manifest.json
+
+sitemap:
+  path: 
+    - sitemap.xml
+    - sitemap.txt
+  template: public/sitemap.xml
+  template_txt: public/sitemap.txt
+  rel: false
+  tags: true
+  categories: true
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: http://cruxlore.com
