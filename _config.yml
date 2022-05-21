@@ -22,8 +22,8 @@ sitemap:
   path: 
     - sitemap.xml
     - sitemap.txt
-  template: public/sitemap.xml
-  template_txt: public/sitemap.txt
+  #template: public/sitemap.xml
+  #template_txt: public/sitemap.txt
   rel: false
   tags: true
   categories: true
